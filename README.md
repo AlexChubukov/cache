@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/AlexDeveloper24/cache.svg?branch=master)](https://travis-ci.org/AlexDeveloper24/cache)
+
 # Лабораторная работа #2
 
 ### Задание 1. Исследование кэш-памяти.
